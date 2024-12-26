@@ -16,6 +16,8 @@
         "Suppress warning [Irregular is supposed to automatically upgrade at tech Combined Arms, and therefore Plastics for its upgrade NBC Marksman may not yet be researched!]"
     ],
     "constants": {
+	"minimalCityDistance": 1,
+	"minimalCityDistanceOnDifferentContinents": 1,
         "maxXPfromBarbarians":100000,
         "cityStrengthBase":20,
         "cityStrengthPerPop":0.5,
